@@ -8,3 +8,7 @@ The script supports reading and writing to an Amiibo binary.
 3ds.py is used to sniff the IR data between the NFC adapter and 3DS. The colors indicate the data layer of the data. The packets are already exor decrypted in python.
 
 More info at https://www.3dbrew.org/wiki/NFC_adapter and https://gbatemp.net/threads/3ds-ir-amiibo-reader-hacked-better-late-than-never.538459/
+
+
+https://user-images.githubusercontent.com/35423020/188975221-49bfb928-4326-416d-85c1-35713c3306c7.mp4
+
