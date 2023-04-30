@@ -1,7 +1,7 @@
 import serial
 import crc8
 import random
-from colorama import Fore, Back, Style 
+#from colorama import Fore, Back, Style 
 from time import sleep
 #AMIIBO_ID=[0x74,0x9D,0xf3,0xda,0x5e,0x5c,0x80]
 AMIIBO_SIG=[0xFF]*32
